@@ -1,0 +1,6 @@
+if open price is greater than pre close(250)
+	{when it is 30% less than the day high the entry}
+Else:--- open price is lesser than previous close(200)
+	if(open price is less than previous close and the difference is more than 40%)
+	then dont use this script
+{when it reaches 30% than the previous close then entry
